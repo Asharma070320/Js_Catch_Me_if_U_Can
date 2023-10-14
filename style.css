@@ -1,0 +1,19 @@
+
+
+#ball {
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+    background-color: black;
+    cursor: pointer;
+    position: absolute;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/000/676/573/small_2x/green-gradient-plane-background.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box p {
+    font-size: 1.4vw;
+    color: black;
+}
